@@ -40,6 +40,15 @@ margin-top: 10px;
 
 }
 
+h2{
+    font-style: oblique;
+    font-size: 25px;
+    font-weight: bold;
+    color: #E69A8DFF;
+    text-align: center;
+    
+}
+
 h6 {
     font-style: oblique;
     font-size: 20px;
